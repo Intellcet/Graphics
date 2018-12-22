@@ -1,0 +1,26 @@
+body
+{
+	background-image: url(iasc.jpg);
+}
+
+canvas 
+{
+	border-Width: 4px;
+	border-Style: groove; 
+	border-Color: #007BA7; /*#007BA7 - лазурный*/ /*#00FFFF*/
+	
+}
+
+div#div1
+{
+	position: absolute; 
+	left: 617px; 
+	top: 30px;
+}
+
+div#div2
+{
+	position: absolute; 
+	left: 617px; 
+	top: 8px;
+}
